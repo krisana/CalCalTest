@@ -17,5 +17,6 @@ get_guest_in_room 203
 list_guest_by_age < 18
 list_guest_by_floor 2
 checkout_guest_by_floor 1
-book_by_floor 1 TonyStark 48
+book 103 StephenStrange 36
+book_by_floor 1 StephenStrange 48
 book_by_floor 2 TonyStark 48

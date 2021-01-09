@@ -16,6 +16,7 @@ Thor, PeterParker, StephenStrange
 Thor
 PeterParker
 Thor
-Room 101, 102 are checkout.
-Room 101, 102, 103 are booked with keycard number 2, 3, 4
+Room 103 are checkout.
+Room 103 is booked by StephenStrange with keycard number 4.
+Room 102, 103 are booked with keycard number 3, 4
 Cannot book floor 2 for TonyStark.
